@@ -1,0 +1,23 @@
+# Banco/conexão
+config/
+
+# MVC + DAO
+controllers/
+dao/
+models/
+
+# Arquivos de teste
+teste.php
+teste/
+
+# Arquivos temporários
+*.tmp
+*.log
+*.cache
+
+# Configurações locais
+.env
+
+# Sistema
+Thumbs.db
+.DS_Store
